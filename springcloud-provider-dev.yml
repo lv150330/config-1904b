@@ -1,0 +1,13 @@
+server:
+  port: 8763
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+1904b:
+  api-a:
+    hi: hi,my name is ´óÎ÷¹Ï
+  api-b:
+    hello: hello,Å£Ò»¹ø is my name
